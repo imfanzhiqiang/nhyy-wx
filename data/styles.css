@@ -81,7 +81,7 @@
 ._流程形状 {
 }
 ._连接线 {
-  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
   font-weight:700;
   font-style:normal;
 }
@@ -110,4 +110,12 @@
   color:#169BD5;
 }
 ._图片 {
+}
+._图像 {
+  color:#000000;
+}
+.shape {
+}
+.image1 {
+  color:#000000;
 }
